@@ -171,7 +171,7 @@ pub mod feature_extraction;
 pub mod linear_models;
 pub mod metrics;
 pub mod multiclass;
-pub mod svm;
+// pub mod svm;
 pub mod traits;
 pub mod trees;
 pub mod utils;
